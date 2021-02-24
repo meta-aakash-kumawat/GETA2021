@@ -9,7 +9,7 @@ public class cart {
 	public static int pId[]=new int[10];
 	public static void main(String args[])
 	{
-		
+		// for creating Products like product1 product2 etc..and therie respective price
 		for(int i=0;i<10;i++)
 		{
 			items[i]="Product"+(i+1);
